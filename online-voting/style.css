@@ -1,0 +1,25 @@
+body {
+    background: #eee;
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+}
+input, button, select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+}
+button {
+    background: blue;
+    color: white;
+    border: none;
+}
